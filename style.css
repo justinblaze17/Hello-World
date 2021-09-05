@@ -1,0 +1,17 @@
+body {
+  
+  width: 350px;
+}
+
+a {
+  text-decoration: underline;  
+}
+
+c{
+  background-color: orange;
+  color: black;
+}
+r{
+  font-weight: bold;
+  color: red;
+}
